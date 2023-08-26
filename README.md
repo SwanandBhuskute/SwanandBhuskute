@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Swanand Bhuskute</h1>
 <h3 align="center">A aspiring software developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack from YouTube**
+- 🌱 I’m currently learning **MERN Stack from YouTube**📚
 
 - 💬 Ask me about **Codechef, GeeksForGeeks, LeetCode problems**
 
 - 📫 How to reach me **swanandbhuskute2003@gmail.com**
 
-- ⚡ Fun fact **I think I have high grasping power**
+- ⚡ Fun fact **I think I have high grasping power**😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
