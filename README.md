@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Swanand.;Aspiring+Software+Engineer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/SwanandBhuskute)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Swanand.;👨‍💻Aspiring+Software+Engineer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;)](https://github.com/SwanandBhuskute)
 
 <h1 align="center">Hi 👋, I'm Swanand Bhuskute</h1>
 <h3 align="center">A aspiring software developer from India</h3>
@@ -79,8 +79,9 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swanandbhuskute&show_icons=true&locale=en&layout=compact" alt="swanandbhuskute" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swanandbhuskute&" alt="swanandbhuskute" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swanandbhuskute&" alt="swanandbhuskute" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swanandbhuskute&show_icons=true&locale=en&layout=compact" alt="swanandbhuskute" />
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/SwanandBhuskute)
