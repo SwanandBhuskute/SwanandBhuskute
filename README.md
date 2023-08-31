@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Swanand.;👨‍💻Aspiring+Software+Engineer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;)](https://github.com/SwanandBhuskute)
 
 <h1 align="center">Hi 👋, I'm Swanand Bhuskute</h1>
-<h3 align="center">A aspiring software developer from India</h3>
+<h3 align="center">An aspiring software developer and AI enthusiast from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack from YouTube**📚
+- 🌱 I’m currently learning **MERN Stack from YouTube**📚 and I am also an **AI** enthusiast⚡.
 
 - 💬 Ask me about **Codechef, GeeksForGeeks, LeetCode problems**
 
@@ -82,6 +82,7 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swanandbhuskute&" alt="swanandbhuskute" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swanandbhuskute&show_icons=true&locale=en&layout=compact" alt="swanandbhuskute" />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=SwanandBhuskute" height="150" alt="stats graph" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/SwanandBhuskute)
