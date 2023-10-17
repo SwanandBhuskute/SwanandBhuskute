@@ -85,7 +85,6 @@
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swanandbhuskute&" alt="swanandbhuskute" /> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swanandbhuskute&show_icons=true&locale=en&layout=compact" alt="swanandbhuskute" />
   <br>
-  <img align="center" src="https://camo.githubusercontent.com/badb9b8e33b5dd64ba966714daf05dc0018b7a8ceb6e6d0bd26cb996743e15c7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732d7472696e69622e76657263656c2e6170702f3f757365723d7472696e6962267468656d653d6d65726b6f26626f726465723d63396666303026666972653d666635353030" alt="swanandbhuskute"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/SwanandBhuskute)
