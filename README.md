@@ -18,14 +18,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bhuskuteswanand" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://linkedin.com/in/swanand-bhuskute-9bb19221a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swanand-bhuskute-9bb19221a" height="30" width="40" /></a>
-<a href="https://instagram.com/swanand_bhuskute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swanand_bhuskute" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swanand-bhuskute-9bb19221a" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://instagram.com/swanand_bhuskute" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://discord.gg/948218767836602369" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.codechef.com/users/swanand_85" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swanand_85" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/swanand_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swanand_85" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/swanand_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="swanand_85" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swanand_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swanand_85" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/swanandbhuskute2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="swanandbhuskute2003" height="30" width="40" /></a>
-<a href="https://discord.gg/948218767836602369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="948218767836602369" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
