@@ -7,13 +7,13 @@
   An aspiring software developer and AI enthusiast from India
 </h3>
 
-- 🌱 I’m currently learning **MERN Stack from YouTube**📚 and I am also an **AI** enthusiast⚡.
+- 💬 SDE intern at RevoltronX - involved in ReactJS, NextJS, AWS
 
-- 💬 Ask me about **Codechef, GeeksForGeeks, LeetCode problems**
+- 🌱 I’m currently learning **MERN Stack, AWS from YouTube**📚 and I am also an **AI** enthusiast⚡.
 
 - 📫 How to reach me **swanandbhuskute2003@gmail.com**
 
-- ⚡ Fun fact **I think I have high grasping power**😅
+- ⚡ Fun fact **I have high grasping power**😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -67,6 +67,9 @@
   <br>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="next" width="40" height="40"/> 
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
