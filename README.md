@@ -9,7 +9,7 @@
 
 - 💬 SDE intern at RevoltronX - involved in ReactJS, NextJS, AWS
 
-- 🌱 I’m currently learning **MERN Stack, AWS from YouTube**📚 and I am also an **AI** enthusiast⚡.
+- 🌱 I’m currently learning **MERN Stack, AWS and DSA from YouTube**📚 and I am also an **AI** enthusiast⚡.
 
 - 📫 How to reach me **swanandbhuskute2003@gmail.com**
 
