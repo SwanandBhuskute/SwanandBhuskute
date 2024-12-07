@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, AWS and DSA from YouTube**📚 and I am also an **AI** enthusiast⚡.
 
-- 📫 How to reach me **swanandbhuskute2003@gmail.com**
+- 📫 How to reach me - **swanandbhuskute2003@gmail.com**
 
 - ⚡ Fun fact **I have high grasping power**😅
 
