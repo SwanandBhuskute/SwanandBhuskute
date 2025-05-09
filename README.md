@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Swanand Bhuskute</h1>  
 <h3 align="center"  style="margin: 3px;">
-<!--   <img alt="Coding" width="380" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> -->
-<!--   <br> -->
   An aspiring software developer and AI enthusiast from India
 </h3>
 
@@ -19,14 +17,32 @@
 <p align="left">
 <a href="https://twitter.com/bhuskuteswanand" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://linkedin.com/in/swanand-bhuskute-9bb19221a" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<!-- <a href="https://instagram.com/swanand_bhuskute" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> -->
-<!-- <a href="https://discord.gg/948218767836602369" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> -->
 <a href="https://www.codechef.com/users/swanand_85" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swanand_85" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/swanand_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swanand_85" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/swanand_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="swanand_85" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swanand_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swanand_85" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/swanandbhuskute2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="swanandbhuskute2003" height="30" width="40" /></a>
 </p>
+
+#  📝 Progress
+![](https://github-readme-streak-stats.herokuapp.com/?user=SwanandBhuskute&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwanandBhuskute&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwanandBhuskute&&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=SwanandBhuskute&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+  
+#  🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SwanandBhuskute&theme=radical&no-frame=true&no-bg=true&margin-w=4) <br />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/SwanandBhuskute)
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=SwanandBhuskute" alt="SwanandBhuskute"/></p>
+
+
+
+<!--   <img alt="Coding" width="380" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> -->
+<!--   <br> -->
+
+<!-- <a href="https://instagram.com/swanand_bhuskute" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> -->
+<!-- <a href="https://discord.gg/948218767836602369" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> -->
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -84,16 +100,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a> 
 </p> -->
-
-#  📝 Progress
-![](https://github-readme-streak-stats.herokuapp.com/?user=SwanandBhuskute&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwanandBhuskute&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br />
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwanandBhuskute&theme=default)
-![](https://github-readme-stats.vercel.app/api?username=SwanandBhuskute&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-  
-#  🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SwanandBhuskute&theme=radical&no-frame=true&no-bg=true&margin-w=4) <br />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/SwanandBhuskute)
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=SwanandBhuskute" alt="SwanandBhuskute"/></p>
-
