@@ -85,19 +85,15 @@
   </a> 
 </p> -->
 
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swanandbhuskute&" alt="swanandbhuskute" />
-<!--   <br> -->
+#  📝 Progress
+![](https://github-readme-streak-stats.herokuapp.com/?user=SwanandBhuskute&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwanandBhuskute&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwanandBhuskute&theme=default)
+![](https://github-readme-stats.vercel.app/api?username=SwanandBhuskute&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwanandBhuskute&show_icons=true&locale=en&layout=compact" alt="SwanandBhuskute" />
-</p>
-
 #  🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=SwanandBhuskute&theme=radical&no-frame=true&no-bg=true&margin-w=4) <br />
-  ![](https://github-readme-stats.vercel.app/api?username=SwanandBhuskute&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwanandBhuskute&theme=default)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/SwanandBhuskute)
+![](https://github-profile-trophy.vercel.app/?username=SwanandBhuskute&theme=radical&no-frame=true&no-bg=true&margin-w=4) <br />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFA600&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/SwanandBhuskute)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=SwanandBhuskute" alt="SwanandBhuskute"/></p>
 
